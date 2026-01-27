@@ -43,7 +43,6 @@ Full-Stack Web Developer .<br>Passionate about scalable systems, clean architect
 
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelalideveloper)
 - Email: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelalideveloper1@gmail.com)
-- WhatsApp: +213 668 84 54 39
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
