@@ -19,7 +19,7 @@ Full-Stack Web Developer .<br>Passionate about scalable systems, clean architect
 **Databases & Cache**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
-**Tools **
+**Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
 # 📊 GitHub Stats:
@@ -30,8 +30,13 @@ Full-Stack Web Developer .<br>Passionate about scalable systems, clean architect
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abdelali-01&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abdelaliarb47@gmail.com) 
+
+
+## 📫 Contact
+
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelalideveloper)
+- Email: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelalideveloper1@gmail.com)
+- WhatsApp: +213 668 84 54 39
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
