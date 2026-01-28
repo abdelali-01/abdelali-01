@@ -23,17 +23,6 @@ Full-Stack Web Developer .<br>Passionate about scalable systems, clean architect
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
 
-## 🏗 Professional Experience
-
-### Full-Stack Web Developer — Startup Project (Sep 2024 – Present)
-
-- Designing and maintaining RESTful backend APIs using Express.js and PostgreSQL.  
-- Implementing authentication and authorization (JWT, role-based access).  
-- Developing production features used by real users in a live environment.
-- Writing and maintaining database schemas, migrations, and queries.
-- Developing frontend web applications and dashboards using Next.js and Tailwind CSS.
-
-
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=abdelali-01&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelali-01&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
